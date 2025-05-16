@@ -57,13 +57,14 @@
    cd DevConnectFull
 
 2. **Start PostgreSQL via Docker:**
+    ```bash
     docker-compose up -d
 
 3.**Run Backend:**
 
-   bash
-   Copy
-   Edit
+   "```bash
+    Copy -d"
+
 4.**cd frontend**
   npm install
   npm start
