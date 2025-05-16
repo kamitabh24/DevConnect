@@ -60,16 +60,17 @@
     ```bash
     docker-compose up -d
 
- 3.**Run Backend:**
+3. **Run Backend:**
 
-   "```bash
-    Copy -d"
+   ```bash
+    Copy -d
 
- 4.**cd frontend**
-  npm install
-  npm start
+4. **cd frontend**
+   ```bash
+   npm install
+   npm start
 
- 5. http://localhost:3000
+5. http://localhost:3000
 
 ## API ENDPOINTS
 
