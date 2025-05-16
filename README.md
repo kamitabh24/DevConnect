@@ -89,11 +89,11 @@ DevConnectFull/
 
 
 ## Future Improvements
-1.Add Follow/Endorse features between developers
-2.Add real-time chat with WebSockets
-3.Implement OAuth login (GitHub, Google)
-4.Deploy backend on Render, frontend on Vercel
-5.Improve UI with Material-UI or Tailwind CSS
+1. Add Follow/Endorse features between developers
+2. Add real-time chat with WebSockets
+3. Implement OAuth login (GitHub, Google)
+4. Deploy backend on Render, frontend on Vercel
+5. Improve UI with Material-UI or Tailwind CSS
 
 ## Author
 Amitabh Kumar
